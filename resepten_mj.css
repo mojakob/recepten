@@ -1,0 +1,33 @@
+img {
+	border-radius: 5px;
+	height: auto;
+	width: 300px;
+}
+
+body {
+	background-image: url("wood-wallpaper9.jpg");
+	text-align: center; 
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
+p{
+	color: white;
+}
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+	color: white;
+}
